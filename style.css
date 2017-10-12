@@ -1,0 +1,33 @@
+/* Styles go here */
+
+
+
+.body{
+  background:#3E464C;
+  color:#202020;
+  font-family:Arial;
+  width:90%;
+  text-align:center;
+  padding: 10px 10px;
+  margin: 15px auto;
+}
+
+.bordered{ background:#FABF2C; padding: 10px 10px; text-align:right;}
+
+.parent,.child{ padding: 10px 10px; background: #FEEA3A; color: #202020; margin: 10px auto 0px auto;}
+
+.pages{ background:#3E464C; color:#fff; margin: 10px auto; padding: 15px 15px; text-align:left;}
+
+.btnShow, .isactive a, a:hover, a:link a:active, btn:hover{ background:#526CFD!important; color:#fff;}
+
+.box{ background: #E81D62; width: 200px; height:150px; padding:10px 10px;}
+
+.ftr{ font-size:10x; color:#747474; padding: 10px 10px; text-align:center; border-top: 1px solid #FEEA3A; background:#202020;}
+
+.jumbotron{ background:#FABF2C;}
+
+b, h5{ color:#FEEA3A;}
+
+.dummy{font-size:8x; color:#747474; font-family:"Courier New";}
+
+
