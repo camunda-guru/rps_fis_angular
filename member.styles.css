@@ -1,0 +1,59 @@
+.ng-valid[required] {
+    border-left: 5px solid #42A948; /* green */
+}
+
+.ng-invalid {
+    border-left: 5px solid #a94442; /* red */
+}
+
+.alert {
+    padding: 15px;
+    margin: 8px 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.msg {
+    color: blue;
+    background-color: whitesmoke;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+label
+{
+    width:40%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    float:left;
+}
+input
+{
+    width:40%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+
+#formdiv
+{
+   width:50%;
+    margin-left: 25%;
+}
+#btndiv
+{
+    width:50%;
+    margin-left: 40%;
+}
+button
+{
+    width:20%;
+    margin-left: 2%;
+    background-color: powderblue;
+    color: black;
+}
